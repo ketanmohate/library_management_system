@@ -1,2 +1,2 @@
 let express=require("express");
-let bodyparser=require("bod")
+let bodyparser=require("body-parser");
